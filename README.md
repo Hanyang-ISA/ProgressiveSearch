@@ -38,7 +38,7 @@ inserted.fasta:  inserted DB
 deletion_result.txt:  Comet result of the shared DB for extracted spectra  
 deletedDB_result.txt:  Comet result of the deleted DB (Comet-E only)  
 insertedDB_result.txt:  Comet result of the inserted DB  
-<Spectrum>_extracted.mgf:  spectrum set for deletion  
+\<Spectrum\>_extracted.mgf:  spectrum set for deletion  
 deletion_result_histogram.txt:  Comet histogram of shared DB result for extracted spectra (Comet-E only)  
 deletedDB_result_histogram.txt:  Comet histogram of deleted DB result (Comet-E only)  
 insertedDB_result_histogram.txt:  Comet histogram of inserted DB result (Comet-E only)  
