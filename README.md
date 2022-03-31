@@ -20,13 +20,13 @@ java -jar ProgressiveSearch.jar  Comet-E  <oldDB_result>  <oldDB_result_histogra
 
 
 ## Parameter descriptions  
-<oldDB_result>:  Comet result of the old DB  
-<oldDB_result_histogram>:  Comet histogram of old DB result  
-<oldDB>:  old DB (.fasta)  
-<newDB>:  new DB (.fasta)  
-<Spectrum>:  spectrum set (.mgf)  
-<Comet_param>:  Comet parameters (.params)  
-<out_dir>:  output directory  
+\<oldDB_result>:  Comet result of the old DB  
+\<oldDB_result_histogram>:  Comet histogram of old DB result  
+\<oldDB>:  old DB (.fasta)  
+\<newDB>:  new DB (.fasta)  
+\<Spectrum>:  spectrum set (.mgf)  
+\<Comet_param>:  Comet parameters (.params)  
+\<out_dir>:  output directory  
 
 
 ## Output files in <out_dir>  
